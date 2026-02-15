@@ -26,7 +26,21 @@ function getLocalIP(): string {
   return "localhost";
 }
 
-app.prepare().then(() => {
+// Run database migrations before starting (needed for Railway where /tmp is used)
+async function setupDatabase() {
+  const { execSync } = require("child_process");
+  try {
+    console.log("Running database migrations...");
+    execSync("npx prisma migrate deploy", { stdio: "inherit" });
+    console.log("Database ready.");
+  } catch (err) {
+    console.error("Migration failed, trying to push schema directly...");
+    execSync("npx prisma db push --skip-generate", { stdio: "inherit" });
+    console.log("Database ready (via db push).");
+  }
+}
+
+setupDatabase().then(() => app.prepare()).then(() => {
   const server = createServer(async (req, res) => {
     try {
       const parsedUrl = parse(req.url!, true);
