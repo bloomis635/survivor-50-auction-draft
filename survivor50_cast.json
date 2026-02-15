@@ -1,0 +1,149 @@
+{
+  "season": "Survivor 50",
+  "contestants": [
+    {
+      "name": "Jenna Lewis-Dougherty",
+      "bio": "47-year-old from Woodland, California. Jenna first appeared on the inaugural season Survivor: Borneo and returned in Survivor: All Stars; she was voted out just before the Final Tribal Council",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/07/c1830276-7793-4369-a3ae-51c3411f7062/260107-jennalewisdougherty.png",
+      "star": false
+    },
+    {
+      "name": "Colby Donaldson",
+      "bio": "51-year-old from Austin, Texas. On Survivor: The Australian Outback he became the first contestant to win five Immunity Challenges and finished as runner-up. Colby later returned for All-Stars and Heroes vs. Villains",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/07/7a585bd9-de69-4336-a4ed-9e05376af7f1/260107-colbydonaldson.png",
+      "star": false
+    },
+    {
+      "name": "Stephenie LaGrossa Kendrick",
+      "bio": "45-year-old from Dunedin, Florida. Stephenie competed on Survivor: Palau, where she was the last member of the Ulong tribe. She later returned for Survivor: Guatemala, finishing as runner-up, and appeared on Heroes vs. Villains",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/07/e42dbec7-1cd1-4cba-a095-9540440d0e5c/98300-d1374b.jpg",
+      "star": false
+    },
+    {
+      "name": "Cirie Fields",
+      "bio": "54-year-old from Jersey City, New Jersey. Regarded as one of the best players never to win, Cirie competed on Survivor: Panama, Micronesia, Heroes vs. Villains and Game Changers. She consistently reached the later stages but never captured the title",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/07/d35c9e1c-c775-41fb-9389-33a7392a178d/96609-d1622.jpg",
+      "star": true
+    },
+    {
+      "name": "Ozzy Lusth",
+      "bio": "43-year-old from Guanajuato, Mexico. A legendary challenge competitor, Ozzy dominated Survivor: Cook Islands, winning five immunity challenges and finishing as runner-up. He returned for Micronesia, South Pacific and Game Changers",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/d28912ca-aaef-455e-9c8a-923f585da24b/108338-d0357abc.jpg",
+      "star": true
+    },
+    {
+      "name": "Benjamin \"Coach\" Wade",
+      "bio": "53-year-old from Susanville, California. Known as Coach, he reached the final five on Survivor: Tocantins and later competed on Heroes vs. Villains and South Pacific, finishing as runner-up in South Pacific",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/3fe563c8-68fd-4c6c-9ad7-e7459f0a2434/100563-d207bm.jpg",
+      "star": true
+    },
+    {
+      "name": "Aubry Bracco",
+      "bio": "39-year-old from Hampton Falls, New Hampshire. Aubry was the runner-up of Survivor: Ka\u00f4h R\u014dng (Season 32). She returned for Game Changers and Edge of Extinction, known for her strategic gameplay",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/7af289a9-6e91-496f-9a9a-e6a2f9ed7c60/112776-0178b.jpg",
+      "star": false
+    },
+    {
+      "name": "Chrissy Hofbeck",
+      "bio": "54-year-old from The Villages, Florida. On Survivor: Heroes vs Healers vs Hustlers (Season 35), Chrissy reached the Final Tribal Council and tied the women\u2019s record by winning four immunity challenges",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/95fae1ee-9331-4856-9865-dc49b0ae7838/110129-0578b2c.jpg",
+      "star": false
+    },
+    {
+      "name": "Christian Hubicki",
+      "bio": "39-year-old from Tallahassee, Florida. A robotics professor and puzzle whiz, Christian played on Survivor: David vs. Goliath, where he became a fan favorite and reached the final seven",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/7fbe814f-055b-4931-8dbc-4110388e0a65/112406-0229bc.jpg",
+      "star": true
+    },
+    {
+      "name": "Angelina Keeley",
+      "bio": "35-year-old from San Diego, California. Angelina competed on Survivor: David vs. Goliath and made it to the Final Tribal Council, but she received no votes and finished as second runner-up",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/98f11aa7-2503-4b34-ad5d-65c4d7db5299/112406-0922bc.jpg",
+      "star": true
+    },
+    {
+      "name": "Mike White",
+      "bio": "54-year-old from Hanalei, Hawaii. An accomplished writer and actor, Mike was the runner-up of Survivor: David vs. Goliath. He is also known for creating the HBO series The White Lotus",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/2bb30b31-f5e2-41c1-85fc-44e881b6fd2e/112406-0683b.jpg",
+      "star": true
+    },
+    {
+      "name": "Rick Devens",
+      "bio": "41-year-old news anchor from Macon, Georgia. On Survivor: Edge of Extinction, Rick was voted out early but returned from the Edge and dominated challenges and strategy until being eliminated at the final four",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/64fc57db-9b7d-433d-b435-61199e2ef47f/112748-0253b.jpg",
+      "star": false
+    },
+    {
+      "name": "Jonathan Young",
+      "bio": "32-year-old from Gulf Shores, Alabama. Jonathan competed on Survivor 42 and became known for his physical dominance in challenges, ultimately finishing in fourth place",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/42ae2cf9-73d8-4c57-93d9-d4d7f0dd7a80/117530-1678bc.jpg",
+      "star": false
+    },
+    {
+      "name": "Dee Valladares",
+      "bio": "28-year-old from Miami, Florida. Dee won Survivor 45, emerging as the Sole Survivor of that season",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/428718b4-54d6-4d52-8308-94cd22dd3b80/1781028-0288bc2.jpg",
+      "star": false
+    },
+    {
+      "name": "Emily Flippen",
+      "bio": "30-year-old investment analyst from Laurel, Maryland. Emily appeared on Survivor 45 and was voted out at the final seven after an underdog run",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/568f841b-f194-4298-b959-a206454e881d/1781028-1147bc2.jpg",
+      "star": true
+    },
+    {
+      "name": "Q Burdette",
+      "bio": "31-year-old from Germantown, Tennessee. Q competed on Survivor 46 as a member of the Yanu tribe and finished in sixth place",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/c6270e7a-30b3-4141-9ffc-5396ada4f84f/1986595-0360bc.jpg",
+      "star": true
+    },
+    {
+      "name": "Tiffany Nicole Ervin",
+      "bio": "34-year-old from Los Angeles, California. Tiffany played on Survivor 46 as part of the Yanu tribe and was voted out at the final eight",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/0bb3d4bd-5a04-4353-97cc-e246117ae7fd/1986595-1281bc.jpg",
+      "star": false
+    },
+    {
+      "name": "Charlie Davis",
+      "bio": "27-year-old medical student from Boston, Massachusetts. Charlie reached the Final Tribal Council of Survivor 46 and finished as the runner-up",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/83742213-e61e-408f-a458-72579ee8382d/1986595-0494bc.jpg",
+      "star": false
+    },
+    {
+      "name": "Genevieve Mushaluk",
+      "bio": "34-year-old from Winnipeg, Manitoba. Genevieve was a strategic threat on Survivor 47, leading alliances until she was voted out at the final five",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/efba6173-e6f0-401c-8e89-0ee756d3a1e5/3003745-0762bc.jpg",
+      "star": false
+    },
+    {
+      "name": "Kamilla Karthigesu",
+      "bio": "31-year-old from Foster City, California. On Survivor 48 she formed a quiet alliance with eventual winner Kyle Fraser and made it to the final four before losing the fire-making challenge",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/de4b55ab-4fb3-4635-b86e-8276a5bd08f9/3017294-0825b.jpg",
+      "star": false
+    },
+    {
+      "name": "Kyle Fraser",
+      "bio": "31-year-old from Brooklyn, New York. Kyle dominated Survivor 48 with strategic and social play, earning the title of Sole Survivor",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/7ed20b8c-9768-4e4e-b374-191ad7cdf675/3017294-0227b.jpg",
+      "star": false
+    },
+    {
+      "name": "Joseph \"Joe\" Hunter",
+      "bio": "45-year-old from West Sacramento, California. Joe reached the Final Tribal Council on Survivor 48 and placed third",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/7cfbf7c4-51e6-475f-b25b-345569337a59/3017294-1748b2.jpg",
+      "star": false
+    },
+    {
+      "name": "Rizo Velovic",
+      "bio": "25-year-old from Yonkers, New York. On Survivor 49, Rizo fought his way to the final four but lost the fire-making challenge to the eventual winner",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/cd471628-0337-4f7c-afc5-8d054c065d96/3080970-0323bc2.jpg",
+      "star": true
+    },
+    {
+      "name": "Savannah Louie",
+      "bio": "31-year-old from Atlanta, Georgia. Savannah became the most recent Sole Survivor by winning Survivor 49",
+      "imageUrl": "https://www.tvguide.com/a/img/hub/2026/01/08/08e89c59-442c-4370-b7b6-2f059ea1edd9/3080970-0667bc2.jpg",
+      "star": true
+    }
+  ]
+}

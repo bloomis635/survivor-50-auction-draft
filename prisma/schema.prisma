@@ -1,0 +1,67 @@
+// This is your Prisma schema file
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Room {
+  id            String   @id
+  hostAdminKey  String
+  createdAt     DateTime @default(now())
+  phase         String   @default("LOBBY") // LOBBY | AUCTION | COMPLETE
+
+  // Settings
+  startingBudget Int @default(100)
+  minIncrement   Int @default(1)
+  timerSeconds   Int @default(30)
+
+  // Current auction state
+  currentContestantId String?
+  auctionStatus       String  @default("IDLE") // IDLE | RUNNING | ENDED
+  currentBid          Int     @default(0)
+  currentBidderPlayerId String?
+  auctionEndTime      DateTime?
+  nominatorPlayerId   String?
+
+  players     Player[]
+  contestants Contestant[]
+}
+
+model Player {
+  id              String @id @default(cuid())
+  roomId          String
+  name            String
+  budgetRemaining Int
+  connected       Boolean @default(true)
+  joinedAt        DateTime @default(now())
+
+  room Room @relation(fields: [roomId], references: [id], onDelete: Cascade)
+  draftedContestants Contestant[]
+
+  @@index([roomId])
+}
+
+model Contestant {
+  id        String  @id @default(cuid())
+  roomId    String
+  name      String
+  bio       String  @default("")
+  imageUrl  String?
+  status    String  @default("AVAILABLE") // AVAILABLE | NOMINATED | DRAFTED
+  star      Boolean @default(false)
+
+  draftedByPlayerId String?
+  draftedPrice      Int?
+  draftOrder        Int?
+
+  room          Room    @relation(fields: [roomId], references: [id], onDelete: Cascade)
+  draftedByPlayer Player? @relation(fields: [draftedByPlayerId], references: [id])
+
+  @@index([roomId])
+  @@index([draftedByPlayerId])
+}
